@@ -2,8 +2,7 @@
 
 An ML-powered web app that predicts diseases from symptoms and provides personalised medicine, diet, and precaution recommendations.
 
-![Uploading Screenshot 2026-08-02 212409.png…]()
-
+<img width="943" height="485" alt="Screenshot 2026-08-02 212409" src="https://github.com/user-attachments/assets/dbfe1b19-8f62-434b-b098-ed872066f791" />
 
 
 👉 **[Live Demo](https://your-app-link.streamlit.app)** &nbsp;|&nbsp; 📁 **[Dataset](https://github.com/somyashree09/MedCare-AI-Healthcare-Recommendation-System/tree/main/Dataset)**
@@ -76,10 +75,6 @@ HealthCare_Recommendation_System/
 ---
 
 ## 📸 Screenshots
-
-<img width="943" height="485" alt="Screenshot 2026-08-02 212409" src="https://github.com/user-attachments/assets/dbfe1b19-8f62-434b-b098-ed872066f791" />
-
-
 <img width="779" height="386" alt="Screenshot 2026-08-02 212744" src="https://github.com/user-attachments/assets/b7ea8cdd-e060-417a-b884-edad7aad25f6" />
 
 <img width="451" height="243" alt="Screenshot 2026-08-02 212732" src="https://github.com/user-attachments/assets/3d0e6f38-c244-4e9d-a9de-1f903d8a7c57" />
