@@ -1,8 +1,8 @@
 # 🩺 MedCare AI — Healthcare Recommendation System
 
 An ML-powered web app that predicts diseases from symptoms and provides personalised medicine, diet, and precaution recommendations.
+<img width="941" height="495" alt="Screenshot 2026-08-02 212705" src="https://github.com/user-attachments/assets/126778dd-bec8-4321-89b7-dce004c41d9f" />
 
-<img width="946" height="491" alt="Screenshot 2026-08-02 212630" src="https://github.com/user-attachments/assets/c3e0fc01-0fe2-4c3c-a523-51eb43c1d62e" />
 
 👉 **[Live Demo](https://your-app-link.streamlit.app)** &nbsp;|&nbsp; 📁 **[Dataset](https://github.com/somyashree09/MedCare-AI-Healthcare-Recommendation-System/tree/main/Dataset)**
 
@@ -75,8 +75,9 @@ HealthCare_Recommendation_System/
 
 ## 📸 Screenshots
 
+<img width="779" height="386" alt="Screenshot 2026-08-02 212744" src="https://github.com/user-attachments/assets/b7ea8cdd-e060-417a-b884-edad7aad25f6" />
 
----<img width="451" height="243" alt="Screenshot 2026-08-02 212732" src="https://github.com/user-attachments/assets/3d0e6f38-c244-4e9d-a9de-1f903d8a7c57" />
+<img width="451" height="243" alt="Screenshot 2026-08-02 212732" src="https://github.com/user-attachments/assets/3d0e6f38-c244-4e9d-a9de-1f903d8a7c57" />
 
 <img width="779" height="386" alt="Screenshot 2026-08-02 212744" src="https://github.com/user-attachments/assets/0265c2c7-ffe0-4160-a297-c4cc65b507d7" />
 
