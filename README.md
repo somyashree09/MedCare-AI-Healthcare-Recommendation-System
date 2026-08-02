@@ -1,7 +1,8 @@
 # 🩺 MedCare AI — Healthcare Recommendation System
 
 An ML-powered web app that predicts diseases from symptoms and provides personalised medicine, diet, and precaution recommendations.
-<img width="960" height="564" alt="Screenshot 2026-08-02 211852" src="https://github.com/user-attachments/assets/48de4b04-a2cd-4c3d-a566-a584767e693a" />
+
+![Uploading Screenshot 2026-08-02 212409.png…]()
 
 
 
@@ -75,6 +76,9 @@ HealthCare_Recommendation_System/
 ---
 
 ## 📸 Screenshots
+
+<img width="943" height="485" alt="Screenshot 2026-08-02 212409" src="https://github.com/user-attachments/assets/dbfe1b19-8f62-434b-b098-ed872066f791" />
+
 
 <img width="779" height="386" alt="Screenshot 2026-08-02 212744" src="https://github.com/user-attachments/assets/b7ea8cdd-e060-417a-b884-edad7aad25f6" />
 
