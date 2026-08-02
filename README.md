@@ -4,7 +4,7 @@ An ML-powered web app that predicts diseases from symptoms and provides personal
 
 <img width="946" height="491" alt="Screenshot 2026-08-02 212630" src="https://github.com/user-attachments/assets/c3e0fc01-0fe2-4c3c-a523-51eb43c1d62e" />
 
-👉 **[Live Demo](https://your-app-link.streamlit.app)** &nbsp;|&nbsp; 📁📁 **[Dataset](https://github.com/somyashree09/MedCare-AI-Healthcare-Recommendation-System/tree/main/Dataset)**
+👉 **[Live Demo](https://your-app-link.streamlit.app)** &nbsp;|&nbsp; 📁 **[Dataset](https://github.com/somyashree09/MedCare-AI-Healthcare-Recommendation-System/tree/main/Dataset)**
 
 ---
 
